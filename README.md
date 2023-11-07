@@ -1,4 +1,3 @@
-# Practice-of-Linear-Regression-and-Stats-Model
 ## Practice-of-Linear-Regression-and-Stats-Model
 ### Table of content
 - Libraries
